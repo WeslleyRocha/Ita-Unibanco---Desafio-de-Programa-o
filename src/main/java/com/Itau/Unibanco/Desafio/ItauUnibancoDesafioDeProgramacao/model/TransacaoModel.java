@@ -3,12 +3,11 @@ package com.Itau.Unibanco.Desafio.ItauUnibancoDesafioDeProgramacao.model;
 import java.time.OffsetDateTime;
 import java.util.Date;
 
-import javax.validation.constraints.NotNull;
 
 
 public class TransacaoModel {
 	
-		@NotNull	
+			
 		private float valor;	
 		
 		//Transforma no formato AAAA/MM/DD - HH:MM
