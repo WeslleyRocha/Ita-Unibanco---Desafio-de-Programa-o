@@ -51,7 +51,7 @@ public class TransacaoController {
 	{	
 		
 		transacaoService.clear();
-		return ResponseEntity.status(HttpStatus.NO_CONTENT).build();
+		return ResponseEntity.status(HttpStatus.OK).build();
 	}
 	
 	
