@@ -29,6 +29,18 @@ public class TransacaoController {
 	{
 		transacaoService.add(transacao);
 		
+		if(transacao == null) 
+		{
+			return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
+			
+		} 
+		
+		if(transacao.getValor() <= -1) 
+		
+		{
+			return ResponseEntity.status(HttpStatus.UNPROCESSABLE_ENTITY).build();
+		}
+		
 		return ResponseEntity.status(HttpStatus.CREATED).build();
 		
 	}
