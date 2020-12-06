@@ -1,42 +1,33 @@
 package com.Itau.Unibanco.Desafio.ItauUnibancoDesafioDeProgramacao.model;
 
 import java.time.OffsetDateTime;
-import java.util.Date;
+
+import javax.validation.constraints.PastOrPresent;
 
 
 
 public class TransacaoModel {
 	
 			
-		private float valor;	
+		private double valor;	
 		
 		//Transforma no formato AAAA/MM/DD - HH:MM
-		private OffsetDateTime dataHora= OffsetDateTime.now();		
+		@PastOrPresent
+		private OffsetDateTime dataHora = OffsetDateTime.now();		
 					
-		public TransacaoModel()
-		{
-			super();
-
-		}
-			
-		public TransacaoModel(float valor, Date dataHora)
-		{
-			super();
-			this.valor = valor;
-		}
 		
 
-		public float getValor() {
+		public double getValor() {
 			return valor;
 		}
 
 
-		public void setValor(float valor) {
+		public void setValor(double valor) {
 			this.valor = valor;
 		}
 
 
-		public OffsetDateTime getDataHor() {
+		public OffsetDateTime getDataHora() {
 			return dataHora;
 		}
 
