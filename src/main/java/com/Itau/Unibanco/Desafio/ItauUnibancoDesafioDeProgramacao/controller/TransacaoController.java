@@ -45,6 +45,7 @@ public class TransacaoController {
 		
 	}
 	
+	//Metodo Delete.
 	@DeleteMapping("/transacao")
 	public ResponseEntity<TransacaoModel> delete()
 	{	
