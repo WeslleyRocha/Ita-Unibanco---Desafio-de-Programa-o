@@ -12,11 +12,12 @@ Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas
 
   <b>Delete</b> / transacao<br>
   <b>Post</b> / transacao
-  
+ </ul>
+ 
 ![alt text](https://i.imgur.com/vd5KrwQ.png)
   
  
 <li>Javadoc</li><br>Javadoc é um gerador de documentação criado para documentar a API dos programas em Java.<br>
 [Clique Aqui](https://weslleyrocha.github.io/Itau-Unibanco-Desafio-de-Programacao/index.html) para visualização completa da documentação. 
   
-</ul>
+
