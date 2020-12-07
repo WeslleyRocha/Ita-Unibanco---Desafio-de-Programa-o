@@ -2,7 +2,7 @@
 
 Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas transações. API deve ser criada utilizando Java Kotlin ou Spring Boot. 
 
-<h2><b>Documentação do Desafio:</b></h2>
+<h2><b>Documentação:</b></h2>
 
 <li>Swagger</li>A documentação Swagger é uma documentação de API, utilizada para verificação de Endpoints, Métodos e Classes.
 
@@ -16,12 +16,13 @@ Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas
   
 
 
-
 <li>Javadoc</li>Javadoc é um gerador de documentação criado para documentar a API dos programas em Java.
 
-![alt text](https://imgur.com/sxEgAj8.png)
 
+![alt text](https://imgur.com/sxEgAj8.png)
 Clique [aqui](https://weslleyrocha.github.io/Itau-Unibanco-Desafio-de-Programacao/index.html) para visualização completa da documentação. 
+
+
 
 <h2><b>Versionamento de código:</b></h2>
   
