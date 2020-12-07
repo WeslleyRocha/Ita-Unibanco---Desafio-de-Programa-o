@@ -14,7 +14,7 @@ Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas
  
 ![alt text](https://i.imgur.com/vd5KrwQ.png)
   
-
+Com a aplicação executando em back-end, acessar a documentação completa através da url: http://localhost:8080/swagger-ui.html
 
 <li>Javadoc</li>Javadoc é um gerador de documentação criado para documentar a API dos programas em Java.
 
