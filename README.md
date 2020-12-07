@@ -4,7 +4,8 @@ Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas
 
 <b>Documentação do Desafio:</b>
 
-<li>Swagger</li><br>A documentação Swagger é uma documentação de API, utilizada para verificação de Endpoints, Métodos e Classes.
+<li>Swagger</li>
+A documentação Swagger é uma documentação de API, utilizada para verificação de Endpoints, Métodos e Classes.
 
   <br>Métodos utilizados:  
   <b>Get</b> / estatistica
@@ -16,6 +17,8 @@ Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas
   
  
 <li>Javadoc</li><br>Javadoc é um gerador de documentação criado para documentar a API dos programas em Java.
+
+<a href="https://imgur.com/sxEgAj8"><img src="https://i.imgur.com/sxEgAj8.png" title="source: imgur.com" /></a>
 
 Clique [aqui](https://weslleyrocha.github.io/Itau-Unibanco-Desafio-de-Programacao/index.html) para visualização completa da documentação. 
   
