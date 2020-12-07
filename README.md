@@ -9,9 +9,38 @@ API deve ser criada utilizando Java Kotlin ou Spring Boot.
 
   <br><b><i>Métodos utilizados:</i></b>  
   <b>Get</b> / estatistica
+  
+Retorno esperado:
+~~~
+{
+    "count": 2,
+    "sum": 246.9,
+    "min": 123.45,
+    "max": 123.45,
+    "average": 123.45
+}
+Status: 200 OK
+~~~
 
   <b>Delete</b> / transacao<br>
+  
+  Retorno esperado:
+~~~
+{
+    
+}
+Status: 200 OK
+~~~
+
   <b>Post</b> / transacao
+
+Metodo encaminhado:
+~~~
+{
+  "valor": 123.45    
+}
+Status: 201 Created
+~~~
  
 ![alt text](https://i.imgur.com/vd5KrwQ.png)
   
