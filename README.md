@@ -21,7 +21,7 @@ Com a aplicação executando em back-end, acessar a documentação completa atra
 
 
 ![alt text](https://imgur.com/sxEgAj8.png)<br>
-Clique ![alt text][aqui](https://weslleyrocha.github.io/Itau-Unibanco-Desafio-de-Programacao/index.html) para visualização completa da documentação. 
+Clique [aqui](https://weslleyrocha.github.io/Itau-Unibanco-Desafio-de-Programacao/index.html) para visualização completa da documentação. 
 
 
 
