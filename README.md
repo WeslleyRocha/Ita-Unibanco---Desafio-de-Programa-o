@@ -18,7 +18,6 @@ Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas
 <li>Javadoc</li>Javadoc é um gerador de documentação criado para documentar a API dos programas em Java.
 
 ![alt text](https://imgur.com/sxEgAj8.png)
-
 Clique [aqui](https://weslleyrocha.github.io/Itau-Unibanco-Desafio-de-Programacao/index.html) para visualização completa da documentação. 
   
 
