@@ -1,6 +1,6 @@
 <h2><b> Introdução </b></h2>
 
-Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas transações.
+Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas transações.<br>
 API deve ser criada utilizando Java Kotlin ou Spring Boot. 
 
 <h2><b>Documentação:</b></h2>
