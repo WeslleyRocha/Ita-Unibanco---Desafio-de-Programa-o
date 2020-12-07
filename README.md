@@ -2,11 +2,10 @@
 
 Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas transações. API deve ser criada utilizando Java Kotlin ou Spring Boot. 
 
-<b> Documentação do Desafio:  </b>
+<b>Documentação do Desafio:</b>
 
 <ul>
 <li>Swagger<li>
-
 A documentação Swagger é uma documentação de API, utilizada para verificação de Endpoints, Métodos e Classe. 
 
 Métodos utilizados:  
