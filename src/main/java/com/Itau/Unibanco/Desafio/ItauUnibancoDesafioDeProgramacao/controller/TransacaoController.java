@@ -23,12 +23,14 @@ public class TransacaoController {
 	@Autowired
 	private TransacaoService transacaoService;
 		
-	//Metodo Post
+	//Metodo Post, com endpoint "transação". 
 	@PostMapping("/transacao")
 	public ResponseEntity<TransacaoModel> addTransacao(@Valid @RequestBody TransacaoModel transacao)
 	{
 		transacaoService.add(transacao);
 		
+		
+		//Condição IF que valida se está passando o valor no modo “POST” na Transação, retorna o status “HttpStatus”
 		if(transacao == null) 
 		{
 			return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
@@ -45,7 +47,7 @@ public class TransacaoController {
 		
 	}
 	
-	//Metodo Delete.
+	//Metodo Delete, com endpoint, retornando o Https OK. 
 	@DeleteMapping("/transacao")
 	public ResponseEntity<TransacaoModel> delete()
 	{	

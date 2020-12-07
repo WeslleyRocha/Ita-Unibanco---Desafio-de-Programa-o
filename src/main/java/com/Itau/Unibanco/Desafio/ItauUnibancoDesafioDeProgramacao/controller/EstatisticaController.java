@@ -19,6 +19,7 @@ public class EstatisticaController {
 	@Autowired
 	private TransacaoService repository;
 	
+	//Metodo Get, com endpoint, retornando o Https OK.
 	@GetMapping("/estatistica")
 	public ResponseEntity<DoubleSummaryStatistics> getAll() 
 	{

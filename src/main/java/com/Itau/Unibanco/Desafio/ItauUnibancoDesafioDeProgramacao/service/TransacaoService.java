@@ -12,6 +12,7 @@ import com.Itau.Unibanco.Desafio.ItauUnibancoDesafioDeProgramacao.model.Transaca
 @Service
 public class TransacaoService {
 
+	//Cria o ArrayList para varredura dos dados e retorna os valores, Count, Sum, Avg, Min, Max. 
 	public List<TransacaoModel> transacaoLista = new ArrayList<>();
 
 	public List<TransacaoModel> getTransacoes() {

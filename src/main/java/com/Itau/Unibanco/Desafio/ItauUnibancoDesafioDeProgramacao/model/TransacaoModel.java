@@ -11,7 +11,8 @@ public class TransacaoModel {
 			
 		private double valor;	
 		
-		//Transforma no formato AAAA/MM/DD - HH:MM
+		//OffsetDateTime converte  no formato AAAA/MM/DD - HH:MM da data. 
+		
 		@PastOrPresent
 		private OffsetDateTime dataHora = OffsetDateTime.now();		
 					
