@@ -13,6 +13,7 @@ API deve ser criada utilizando Java Kotlin ou Spring Boot.
 
 ~~~
 Retorno esperado:
+
 {
     "count": 2,
     "sum": 246.9,
@@ -25,9 +26,9 @@ Status: 200 OK
 
   <b>Delete</b> / transacao<br>
   
-  
 ~~~
 Retorno esperado:
+
 {
     
 }
@@ -39,6 +40,7 @@ Status: 200 OK
 
 ~~~
 Metodo encaminhado:
+
 {
   "valor": 123.45    
 }
