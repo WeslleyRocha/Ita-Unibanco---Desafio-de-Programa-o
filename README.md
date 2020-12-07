@@ -68,5 +68,5 @@ Clique [aqui](https://weslleyrocha.github.io/Itau-Unibanco-Desafio-de-Programaca
 | Estatística               | vs0.1  | Camadas: Controller, Model, Service                               |
 | Relacionamento de Tabelas | vs0.1  | Relacionamento entre tabelas, Transacao & Estatistica             |
 | Documentação Swagger      | vs0.1  | Documentação API em Swagger                                       |
-| Documentação Javadoc      | vs0.1  | Documentação API em Javadoc                                       |
 | Arquivo .Jar              | vs0.1  | Disponível em .../target/DocuItauUnibancoDesafioDeProgramacao.jar |
+| Documentação Javadoc      | vs0.1  | Documentação API em Javadoc                                       |
