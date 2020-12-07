@@ -18,7 +18,7 @@ A documentação Swagger é uma documentação de API, utilizada para verificaç
  
 <li>Javadoc</li><br>Javadoc é um gerador de documentação criado para documentar a API dos programas em Java.
 
-<a href="https://imgur.com/sxEgAj8"><img src="https://i.imgur.com/sxEgAj8.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/sxEgAj8"><img src="https://i.imgur.com/sxEgAj8.png?1" title="source: imgur.com" /></a>
 
 Clique [aqui](https://weslleyrocha.github.io/Itau-Unibanco-Desafio-de-Programacao/index.html) para visualização completa da documentação. 
   
