@@ -6,7 +6,7 @@ Desafio: Fazer uma API que receba Transações e retorna Estatísticas sob essas
 
 <li>Swagger</li>A documentação Swagger é uma documentação de API, utilizada para verificação de Endpoints, Métodos e Classes.
 
-  <br>Métodos utilizados:  
+  <br><b><i>Métodos utilizados:</i></b>  
   <b>Get</b> / estatistica
 
   <b>Delete</b> / transacao<br>
